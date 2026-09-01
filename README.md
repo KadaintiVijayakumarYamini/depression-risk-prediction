@@ -1,4 +1,4 @@
-# Mental Health / Depression Risk Prediction
+# Mental Health / Depression Risk Prediction.
 
 ## Project Overview
 
