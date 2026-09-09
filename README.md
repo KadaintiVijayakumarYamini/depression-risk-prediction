@@ -15,7 +15,7 @@ The **Mental Health / Depression Risk Prediction** project aims to use Machine L
 * Python
 * Machine Learning
 * Pandas
-* NumPy
+* Numpy
 * Scikit-learn
 * Jupyter Notebook / VS Code
 
