@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Mental Health / Depression Risk Prediction** project aims to use Machine Learning to identify the likelihood of depression risk based on user-provided information. This project is created for educational purposes and is **not** intended to provide medical diagnosis or professional healthcare advice.
+The **Mental Health/ Depression Risk Prediction** project aims to use Machine Learning to identify the likelihood of depression risk based on user-provided information. This project is created for educational purposes and is **not** intended to provide medical diagnosis or professional healthcare advice.
 
 ## Objective
 
